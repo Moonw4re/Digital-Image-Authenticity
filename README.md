@@ -209,6 +209,58 @@ The investigation highlighted the importance of combining multiple forensic tech
 
 ---
 
+## 09.1 // Forensic Evidence
+
+### 01 - Reverse Image Search
+
+Reverse image search was performed to investigate the origin of Evidence_01.
+
+<img src="./IMG_7936.png" width="100%"/>
+
+### 02 - Error Level Analysis
+
+ELA was used to examine potential compression inconsistencies in Evidence_01.
+
+<img src="./IMG_7937.png" width="100%"/>
+
+### 03 - CFA Analysis - Evidence_01
+
+CFA analysis detected 1,142 artifacts in the first evidence sample.
+
+<img src="./IMG_7938.png" width="100%"/>
+
+### 04 - Clone Detection
+
+Repeated pixel patterns were examined in Evidence_02 using Forensically.
+
+<img src="./IMG_7939.png" width="100%"/>
+
+### 05 - CFA Analysis - Evidence_02
+
+CFA analysis detected 4,851 artifacts in the second evidence sample.
+
+<img src="./IMG_7940.png" width="100%"/>
+
+### 06 - Original Source Verification (My Contribution)
+
+I successfully traced Evidence_03 to its original source on Flickr, published in 2017, supporting its authenticity.
+
+<img src="./IMG_7941.png" width="100%"/>
+
+### 07 - Error Level Analysis - Evidence_03
+
+Consistent compression patterns supported the authenticity assessment of the third image.
+
+<img src="./IMG_7942.png" width="100%"/>
+
+### 08 - CFA Analysis - Evidence_03
+
+Only 19 CFA artifacts were detected, supporting the overall forensic assessment alongside other findings.
+
+<img src="./IMG_7943.png" width="100%"/>
+
+---
+
 ## 10 // Investigation Limitations
 
 - Missing EXIF metadata does not necessarily indicate AI-generated content.
